@@ -21,3 +21,9 @@ public class FloatingDigit
 	    }
 	}
 }
+// ot put:
+
+//Enter 1st number: 34
+
+//Enter 2nd number: 67
+//Entered numbers are different
